@@ -25,7 +25,6 @@ The dataset used for this project contains transactional sales data with the fol
 * The main objectives of this project were to:
 * Analyze overall sales performance
 * Identify top-performing products and regions
-* Understand customer purchasing behavior
-* Track profit trends over time
 * Build an interactive dashboard for stakeholders
+* How to increase the sales of products which were not being sold very well
 
