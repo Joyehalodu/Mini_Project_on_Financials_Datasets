@@ -27,4 +27,5 @@ The dataset used for this project contains transactional sales data with the fol
 * Identify top-performing products and regions
 * Build an interactive dashboard for stakeholders
 * How to increase the sales of products which were not being sold very well
+  
 
