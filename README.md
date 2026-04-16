@@ -28,12 +28,21 @@ The dataset used for this project contains transactional sales data with the fol
 * Build an interactive dashboard for stakeholders
 * How to increase the sales of products which were not being sold very well
 
-################ Dashboard Features
+## Dashboard Features
 The Power BI dashboard includes:
-* Sales Overview: Total revenue, total profit, and quantity sold
-* Time Analysis: Monthly and yearly sales trends
-* Regional Analysis: Performance across different regions
-* Product Insights: Best-selling and least-performing products
-* Customer Segmentation: Insights based on customer types
+* Sales Overview:
+* Time Analysis:
+* Regional Analysis:
+* Product Insights:
+* Customer Segmentation:
+
+## Key Insights
+* Certain regions consistently outperform others in total sales
+* A small number of products contribute to a large portion of revenue
+* Sales show seasonal trends with noticeable peak periods
+* Profit margins vary significantly across product categories
+
+## Conclusion
+This project demonstrates how Microsoft Power BI can be used to convert raw data into actionable insights. The dashboard enables stakeholders to monitor performance and make informed business decisions effectively.
   
 
